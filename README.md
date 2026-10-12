@@ -18,7 +18,7 @@
 Full stack & platform engineer focused on modular and cloud-native architectures.  
 I design scalable systems with data pipelines, GitOps, and AI integration in business processes and development.  
 
-⚙️ Passionate about automation, code quality, and clear documentation.  
+⚙️ Passionate about automation and IT.  
 🎯 Always focused on practical solutions and continuous improvement.
 
 ---
