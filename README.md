@@ -34,5 +34,5 @@ I design scalable systems with data pipelines, GitOps, and AI integration in bus
 
 ## 📫 Let's connect
 
-- LinkedIn: *(add your link here)*
-- GitHub: https://github.com/yourusername
+- LinkedIn: ![LinkedIn](https://www.linkedin.com/in/marco-minato-4a807921/)
+- GitHub: ![GitHub](https://github.com/marco-minato)
